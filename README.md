@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markgagnonio
-- 👀 I’m interested in software defined networking, python, and learning
+- 👀 I’m interested in software defined networking, python, and labbing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on self taugh learning projects or labs
 
